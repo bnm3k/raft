@@ -1,0 +1,6 @@
+*.csproj
+PGenerated/
+POutput/
+Test.cs
+obj/
+output
